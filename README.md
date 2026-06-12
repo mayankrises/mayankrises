@@ -136,7 +136,7 @@ Real-time civic accountability platform designed to improve transparency between
 
 ---
 
-## 🤖 VeriStream
+## 🤖 [VeriStream](https://veristream.up.railway.app/)
 
 AI-powered online proctoring and liveness verification platform.
 
@@ -147,12 +147,13 @@ AI-powered online proctoring and liveness verification platform.
 - Attention Tracking
 - Suspicious Activity Monitoring
 - Real-Time Analytics Dashboard
+- Project at IIITL's flagship Hackathon Hackofiesta
 
 **Tech:** Next.js • TypeScript • MediaPipe • WebRTC
 
 ---
 
-## 📈 Algo Trading Dashboard
+## 📈 [Algo Trading Dashboard](https://algo-trade-frontend.onrender.com/dashboard)
 
 Paper trading and backtesting platform for quantitative trading strategies.
 
