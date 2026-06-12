@@ -6,7 +6,11 @@
 
 B.Tech CSE @ IIIT Lucknow
 
-Building scalable systems, real-time applications, security tools, and algorithmic solutions.
+🏆 Codeforces Pupil (1315) • ⭐ CodeChef 3★ (1604)
+
+Building scalable systems, security tools, and algorithmic solutions.
+
+[Codeforces](https://codeforces.com/profile/ramortizedsoul) • [CodeChef](https://www.codechef.com/users/mayankrises) • [LinkedIn](https://www.linkedin.com/in/mayank-sharma-333188305/) • [GitHub](https://github.com/mayankrises)
 
 </div>
 
@@ -18,13 +22,12 @@ I'm a Computer Science undergraduate passionate about solving challenging proble
 
 My interests include:
 
-* Data Structures & Algorithms
-* Backend Engineering
-* Distributed Systems
-* Android Development
-* Cybersecurity
-* Artificial Intelligence
-* Quantitative Trading Systems
+- Data Structures & Algorithms
+- Backend Engineering
+- Android Development
+- Cybersecurity
+- System Design
+- Artificial Intelligence
 
 I enjoy transforming complex problems into efficient and maintainable solutions.
 
@@ -32,11 +35,17 @@ I enjoy transforming complex problems into efficient and maintainable solutions.
 
 ## Problem Solving
 
-* Strong foundation in Data Structures and Algorithms
-* Regular Competitive Programming practice
-* Experienced with Graphs, Trees, Dynamic Programming, Greedy Algorithms, Binary Search and Number Theory
-* Passionate about optimization and system design
-* Always focused on writing clean, scalable and efficient code
+- Active Competitive Programmer
+- Codeforces Rating: **1315 (Pupil)**
+- CodeChef Rating: **1604 (3★)**
+- Strong foundation in:
+  - Graphs
+  - Dynamic Programming
+  - Trees
+  - Binary Search
+  - Greedy Algorithms
+  - Number Theory
+  - Advanced Data Structures
 
 ---
 
@@ -45,36 +54,34 @@ I enjoy transforming complex problems into efficient and maintainable solutions.
 ### Languages
 
 ```text
-Java
 C++
+Java
 Python
 Kotlin
 JavaScript
-TypeScript
 SQL
+C
 ```
 
 ### Backend
 
 ```text
 Spring Boot
-FastAPI
+Flask
+Django
 REST APIs
-JWT Authentication
 WebSockets
-SQLite
 MySQL
-MongoDB
 ```
 
 ### Frontend
 
 ```text
-React
+React.js
 Next.js
 HTML
 CSS
-Tailwind CSS
+JavaScript
 ```
 
 ### Android
@@ -92,12 +99,10 @@ Google Play Services
 ```text
 Git
 GitHub
-Docker
 Linux
-Postman
 Android Studio
-IntelliJ IDEA
 VS Code
+IntelliJ IDEA
 ```
 
 ---
@@ -106,28 +111,20 @@ VS Code
 
 ## Android Remote Access & Vulnerability Testing Tool
 
-Designed and developed an Android-based security research platform that demonstrates how remotely accessible services interact with device resources under authorized conditions.
+Android security research platform demonstrating how remotely accessible services interact with device resources under authorized conditions.
 
 ### Highlights
 
-* Built an embedded Ktor web server running directly on Android
-* Implemented remote access to camera, microphone and GPS services
-* Supported Local Network, VPN and internet connectivity through ngrok tunnels
-* Integrated CameraX for media streaming capabilities
-* Developed real-time device monitoring and communication workflows
-* Explored Android security architecture, permissions and attack surfaces
+- Built an embedded Ktor server running directly on Android
+- Implemented camera streaming using CameraX
+- Integrated GPS tracking using Google Play Services
+- Supported Local Network, VPN and Ngrok connectivity
+- Developed a real-time monitoring dashboard
+- Explored Android security architecture, permissions and attack surfaces
 
-### Technologies
+**Tech Stack:** Kotlin • Ktor • CameraX • Coroutines • Android SDK
 
-```text
-Kotlin
-Android SDK
-CameraX
-Ktor Server
-Coroutines
-Google Play Services
-Networking
-```
+🔗 Repository: https://github.com/mayankrises/android-remote-access-tool
 
 ---
 
@@ -137,20 +134,13 @@ Real-time civic accountability platform designed to improve transparency between
 
 ### Highlights
 
-* Community issue reporting
-* Trust-based voting mechanism
-* Authority resolution workflow
-* Real-time updates using WebSockets
-* Cloud synchronization architecture
+- Community issue reporting
+- Trust-based voting mechanism
+- Authority resolution workflow
+- Real-time updates using WebSockets
+- Cloud synchronization architecture
 
-### Technologies
-
-```text
-Node.js
-WebSockets
-SQLite
-JavaScript
-```
+**Tech Stack:** Node.js • WebSockets • SQLite • JavaScript
 
 ---
 
@@ -160,20 +150,13 @@ AI-powered online proctoring and liveness verification platform.
 
 ### Highlights
 
-* Face Detection
-* Liveness Verification
-* Attention Tracking
-* Suspicious Activity Monitoring
-* Real-time Metrics Dashboard
+- Face Detection
+- Liveness Verification
+- Attention Tracking
+- Suspicious Activity Monitoring
+- Real-Time Analytics Dashboard
 
-### Technologies
-
-```text
-Next.js
-TypeScript
-MediaPipe
-WebRTC
-```
+**Tech Stack:** Next.js • TypeScript • MediaPipe • WebRTC
 
 ---
 
@@ -183,63 +166,61 @@ Paper trading and backtesting platform for quantitative trading strategies.
 
 ### Highlights
 
-* Strategy Backtesting Engine
-* Technical Indicators
-* Risk Management Framework
-* Portfolio Analytics
-* Performance Tracking
+- Strategy Backtesting Engine
+- Technical Indicators
+- Portfolio Analytics
+- Risk Management Framework
+- Performance Tracking
 
-### Technologies
-
-```text
-Python
-FastAPI
-SQLite
-yFinance
-```
+**Tech Stack:** Python • FastAPI • SQLite • yFinance
 
 ---
 
-## What I Enjoy Building
+## MedSetu
 
-* High-performance backend systems
-* Security-focused applications
-* Real-time communication platforms
-* Android applications
-* AI-assisted products
-* Algorithmic trading systems
+Medical appointment booking platform built with React.
+
+### Highlights
+
+- Doctor discovery and appointment scheduling
+- Responsive user interface
+- Component-based architecture
+- Deployed on Vercel
+
+**Tech Stack:** React • JavaScript • Vite • CSS
+
+🔗 Repository: https://github.com/mayankrises/Medsetu-React-App
 
 ---
 
-## Currently Learning
+## Current Focus
 
-* Advanced Data Structures
-* Distributed Systems
-* System Design
-* AI Applications
-* Trading Infrastructure
-* Cybersecurity Concepts
+- Competitive Programming
+- Backend Engineering
+- System Design
+- Cybersecurity
+- Distributed Systems
+- AI Applications
 
 ---
 
 ## Goals
 
-* Reach Expert on Codeforces
-* Master Backend Engineering
-* Build Production-Grade Systems
-* Contribute to Open Source
-* Continuously improve problem-solving skills
+- Reach Codeforces Specialist
+- Build Production-Grade Systems
+- Contribute to Open Source
+- Master Backend Engineering
+- Strengthen Problem Solving Skills
 
 ---
-
-## Philosophy
 
 > First make it work.
+>
 > Then make it correct.
+>
 > Then make it fast.
+>
 > Then make it scalable.
-
----
 
 <div align="center">
 
