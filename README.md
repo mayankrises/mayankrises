@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Mayank Sharma 👋
+# Mayank Sharma
 
-### Competitive Programmer • Backend Engineer • Problem Solver
+### Competitive Programmer • Backend Engineer • Android Developer
 
 B.Tech CSE @ IIIT Lucknow
 
-Building scalable systems with Java, Spring Boot, Next.js and Python.
+Building scalable systems, real-time applications, security tools, and algorithmic solutions.
 
 </div>
 
@@ -14,34 +14,29 @@ Building scalable systems with Java, Spring Boot, Next.js and Python.
 
 ## About Me
 
-I'm a Computer Science undergraduate passionate about solving challenging problems and building real-world software systems.
+I'm a Computer Science undergraduate passionate about solving challenging problems and building software that scales.
 
 My interests include:
 
-- Data Structures & Algorithms
-- Backend Development
-- Distributed Systems
-- System Design
-- Artificial Intelligence
-- Quantitative Trading Systems
+* Data Structures & Algorithms
+* Backend Engineering
+* Distributed Systems
+* Android Development
+* Cybersecurity
+* Artificial Intelligence
+* Quantitative Trading Systems
 
-I enjoy turning complex ideas into scalable and maintainable software.
+I enjoy transforming complex problems into efficient and maintainable solutions.
 
 ---
 
 ## Problem Solving
 
-- Active Competitive Programmer
-- Strong foundation in:
-  - Graphs
-  - Dynamic Programming
-  - Trees
-  - Binary Search
-  - Greedy Algorithms
-  - Number Theory
-  - Data Structures
-
-- Regularly practice algorithmic problem solving and optimization techniques.
+* Strong foundation in Data Structures and Algorithms
+* Regular Competitive Programming practice
+* Experienced with Graphs, Trees, Dynamic Programming, Greedy Algorithms, Binary Search and Number Theory
+* Passionate about optimization and system design
+* Always focused on writing clean, scalable and efficient code
 
 ---
 
@@ -53,9 +48,9 @@ I enjoy turning complex ideas into scalable and maintainable software.
 Java
 C++
 Python
+Kotlin
 JavaScript
 TypeScript
-Kotlin
 SQL
 ```
 
@@ -82,7 +77,17 @@ CSS
 Tailwind CSS
 ```
 
-### Tools & Technologies
+### Android
+
+```text
+Kotlin
+Android SDK
+CameraX
+Coroutines
+Google Play Services
+```
+
+### Tools
 
 ```text
 Git
@@ -91,27 +96,54 @@ Docker
 Linux
 Postman
 Android Studio
-VS Code
 IntelliJ IDEA
+VS Code
 ```
 
 ---
 
 # Featured Projects
 
+## Android Remote Access & Vulnerability Testing Tool
+
+Designed and developed an Android-based security research platform that demonstrates how remotely accessible services interact with device resources under authorized conditions.
+
+### Highlights
+
+* Built an embedded Ktor web server running directly on Android
+* Implemented remote access to camera, microphone and GPS services
+* Supported Local Network, VPN and internet connectivity through ngrok tunnels
+* Integrated CameraX for media streaming capabilities
+* Developed real-time device monitoring and communication workflows
+* Explored Android security architecture, permissions and attack surfaces
+
+### Technologies
+
+```text
+Kotlin
+Android SDK
+CameraX
+Ktor Server
+Coroutines
+Google Play Services
+Networking
+```
+
+---
+
 ## CivicGuard
 
-A real-time civic accountability platform designed to improve transparency between citizens and authorities.
+Real-time civic accountability platform designed to improve transparency between citizens and authorities.
 
-### Features
+### Highlights
 
-- Community issue reporting
-- Real-time updates using WebSockets
-- Trust-based voting system
-- Authority resolution workflow
-- Cloud synchronization
+* Community issue reporting
+* Trust-based voting mechanism
+* Authority resolution workflow
+* Real-time updates using WebSockets
+* Cloud synchronization architecture
 
-### Tech
+### Technologies
 
 ```text
 Node.js
@@ -124,17 +156,17 @@ JavaScript
 
 ## VeriStream
 
-An AI-powered online proctoring and liveness verification platform.
+AI-powered online proctoring and liveness verification platform.
 
-### Features
+### Highlights
 
-- Face Detection
-- Liveness Verification
-- Attention Tracking
-- Suspicious Activity Monitoring
-- Real-time Metrics
+* Face Detection
+* Liveness Verification
+* Attention Tracking
+* Suspicious Activity Monitoring
+* Real-time Metrics Dashboard
 
-### Tech
+### Technologies
 
 ```text
 Next.js
@@ -147,17 +179,17 @@ WebRTC
 
 ## Algo Trading Dashboard
 
-A paper trading and backtesting platform for algorithmic strategies.
+Paper trading and backtesting platform for quantitative trading strategies.
 
-### Features
+### Highlights
 
-- Strategy Backtesting
-- Technical Indicators
-- Portfolio Tracking
-- Risk Management
-- Performance Analytics
+* Strategy Backtesting Engine
+* Technical Indicators
+* Risk Management Framework
+* Portfolio Analytics
+* Performance Tracking
 
-### Tech
+### Technologies
 
 ```text
 Python
@@ -168,67 +200,49 @@ yFinance
 
 ---
 
-## Doctor Management System
+## What I Enjoy Building
 
-A healthcare management platform for doctors and appointment scheduling.
-
-### Features
-
-- Doctor Profile Management
-- Slot Scheduling
-- CRUD APIs
-- Image Upload Support
-- User Integration
-
-### Tech
-
-```text
-Java
-Spring Boot
-JPA
-MySQL
-```
+* High-performance backend systems
+* Security-focused applications
+* Real-time communication platforms
+* Android applications
+* AI-assisted products
+* Algorithmic trading systems
 
 ---
 
-# Current Goals
+## Currently Learning
 
-- Reach Expert on Codeforces
-- Master System Design
-- Build Production-Grade Systems
-- Contribute to Open Source
-- Strengthen Backend Engineering Skills
-
----
-
-# What I Value
-
-- Clean Code
-- Scalability
-- Performance
-- Maintainability
-- Continuous Learning
+* Advanced Data Structures
+* Distributed Systems
+* System Design
+* AI Applications
+* Trading Infrastructure
+* Cybersecurity Concepts
 
 ---
 
-# Currently Learning
+## Goals
 
-- Distributed Systems
-- Advanced Data Structures
-- System Design
-- AI Applications
-- Trading Infrastructure
+* Reach Expert on Codeforces
+* Master Backend Engineering
+* Build Production-Grade Systems
+* Contribute to Open Source
+* Continuously improve problem-solving skills
 
 ---
 
-## Connect
+## Philosophy
 
-GitHub: https://github.com/mayankrises
+> First make it work.
+> Then make it correct.
+> Then make it fast.
+> Then make it scalable.
 
 ---
 
 <div align="center">
 
-### "First make it work. Then make it right. Then make it fast."
+### Always Learning • Always Building • Always Improving
 
 </div>
