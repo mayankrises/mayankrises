@@ -1,13 +1,12 @@
 <div align="center">
 
-# Rajeev Manocha
+# Hi, I'm Mayank Sharma 👋
 
 ### Competitive Programmer • Backend Engineer • Problem Solver
 
-Building scalable systems with Java, Spring Boot, Next.js and Python.
+B.Tech CSE @ IIIT Lucknow
 
-Currently focused on:
-Data Structures & Algorithms • System Design • Distributed Systems • AI Applications
+Building scalable systems with Java, Spring Boot, Next.js and Python.
 
 </div>
 
@@ -15,26 +14,34 @@ Data Structures & Algorithms • System Design • Distributed Systems • AI Ap
 
 ## About Me
 
-🎓 B.Tech CSE @ IIIT Lucknow
+I'm a Computer Science undergraduate passionate about solving challenging problems and building real-world software systems.
 
-⚡ Competitive Programmer passionate about solving complex algorithmic problems
+My interests include:
 
-🏗️ Backend Developer focused on scalable and maintainable architectures
-
-📚 Currently learning:
-- Advanced DSA
-- System Design
+- Data Structures & Algorithms
+- Backend Development
 - Distributed Systems
+- System Design
+- Artificial Intelligence
 - Quantitative Trading Systems
+
+I enjoy turning complex ideas into scalable and maintainable software.
 
 ---
 
 ## Problem Solving
 
-- Strong foundation in Graphs, Trees, DP, Greedy and Binary Search
-- Regular Competitive Programming practice
-- Active on Codeforces, LeetCode and SPOJ
-- Passionate about optimization and algorithm design
+- Active Competitive Programmer
+- Strong foundation in:
+  - Graphs
+  - Dynamic Programming
+  - Trees
+  - Binary Search
+  - Greedy Algorithms
+  - Number Theory
+  - Data Structures
+
+- Regularly practice algorithmic problem solving and optimization techniques.
 
 ---
 
@@ -68,105 +75,160 @@ MongoDB
 ### Frontend
 
 ```text
-Next.js
 React
+Next.js
 HTML
 CSS
-Tailwind
+Tailwind CSS
 ```
 
-### Tools
+### Tools & Technologies
 
 ```text
 Git
 GitHub
 Docker
-Postman
 Linux
+Postman
+Android Studio
+VS Code
+IntelliJ IDEA
 ```
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### CivicGuard
+## CivicGuard
 
-Real-time civic accountability platform
+A real-time civic accountability platform designed to improve transparency between citizens and authorities.
 
-Features:
+### Features
+
 - Community issue reporting
-- Trust-based voting system
 - Real-time updates using WebSockets
+- Trust-based voting system
+- Authority resolution workflow
 - Cloud synchronization
 
-Tech:
-Node.js • SQLite • WebSockets
+### Tech
+
+```text
+Node.js
+WebSockets
+SQLite
+JavaScript
+```
 
 ---
 
-### VeriStream
+## VeriStream
 
-AI-powered online proctoring platform
+An AI-powered online proctoring and liveness verification platform.
 
-Features:
-- Face detection
-- Liveness verification
-- Attention monitoring
-- Suspicious activity tracking
+### Features
 
-Tech:
-Next.js • TypeScript • MediaPipe
+- Face Detection
+- Liveness Verification
+- Attention Tracking
+- Suspicious Activity Monitoring
+- Real-time Metrics
 
----
+### Tech
 
-### Algo Trading Dashboard
-
-Paper trading and backtesting platform
-
-Features:
-- Strategy backtesting
-- Technical indicators
-- Portfolio tracking
-- Risk management engine
-
-Tech:
-Python • FastAPI • SQLite
+```text
+Next.js
+TypeScript
+MediaPipe
+WebRTC
+```
 
 ---
 
-## What I Enjoy Building
+## Algo Trading Dashboard
 
-- High-performance backend systems
-- Real-time applications
-- Algorithmic solutions
-- AI-assisted products
-- Developer tools
+A paper trading and backtesting platform for algorithmic strategies.
+
+### Features
+
+- Strategy Backtesting
+- Technical Indicators
+- Portfolio Tracking
+- Risk Management
+- Performance Analytics
+
+### Tech
+
+```text
+Python
+FastAPI
+SQLite
+yFinance
+```
 
 ---
 
-## Current Goals
+## Doctor Management System
+
+A healthcare management platform for doctors and appointment scheduling.
+
+### Features
+
+- Doctor Profile Management
+- Slot Scheduling
+- CRUD APIs
+- Image Upload Support
+- User Integration
+
+### Tech
+
+```text
+Java
+Spring Boot
+JPA
+MySQL
+```
+
+---
+
+# Current Goals
 
 - Reach Expert on Codeforces
 - Master System Design
-- Build production-grade backend systems
+- Build Production-Grade Systems
 - Contribute to Open Source
+- Strengthen Backend Engineering Skills
 
 ---
 
-## Philosophy
+# What I Value
 
-> First make it work.
->
-> Then make it correct.
->
-> Then make it fast.
->
-> Then make it scalable.
+- Clean Code
+- Scalability
+- Performance
+- Maintainability
+- Continuous Learning
+
+---
+
+# Currently Learning
+
+- Distributed Systems
+- Advanced Data Structures
+- System Design
+- AI Applications
+- Trading Infrastructure
+
+---
+
+## Connect
+
+GitHub: https://github.com/mayankrises
 
 ---
 
 <div align="center">
 
-### Always Learning. Always Building.
+### "First make it work. Then make it right. Then make it fast."
 
 </div>
