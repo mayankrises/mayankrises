@@ -167,21 +167,6 @@ Paper trading and backtesting platform for quantitative trading strategies.
 
 ---
 
-## 🏥 MedSetu
-
-Medical appointment booking platform built with React.
-
-### Highlights
-
-- Doctor discovery and appointment scheduling
-- Responsive UI
-- Component-based architecture
-- Vercel deployment
-
-**Tech:** React • JavaScript • Vite • CSS
-
----
-
 ## 🎯 Current Focus
 
 - Competitive Programming
